@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>AsposeRepro</RootNamespace>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Aspose.Slides.NET" Version="23.8.0" />
+    </ItemGroup>
+</Project>
